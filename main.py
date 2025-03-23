@@ -6,13 +6,13 @@ from point import Point2D
 from point import FaceAndDepth
 import math
 
-SCREEN_WIDTH = 1280
-SCREEN_HEIGHT = 720
+SCREEN_WIDTH = 1920
+SCREEN_HEIGHT = 1080
 FOV = 10
 CAMERAX = SCREEN_WIDTH/2
 CAMERAY = SCREEN_HEIGHT/2
 
-MODELPATH = 'creeper.txt'
+MODELPATH = 'cube.txt'
 
 objRotationX = 0.0
 objRotationY = 0.0
